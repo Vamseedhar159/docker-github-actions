@@ -3,7 +3,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def home():
-	return "hello from server.py"
+	return "hello from server.py latest"
 
 
 if __name__ == "__main__":

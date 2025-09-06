@@ -26,5 +26,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: dockwithvamsee/flask-server:v2
+          tags: dockwithvamsee/flask-server:v3 
 
